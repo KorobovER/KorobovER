@@ -49,16 +49,6 @@ Fullstack-платформа для управления виртуальным�
 - [Backend](https://github.com/KorobovER/VM_managerBackend)
 - [Frontend](https://github.com/KorobovER/VM_managerFrontend)
 
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KorobovER&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KorobovER&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 📫 Контакты
 
 - **Telegram:** [@korobover](https://t.me/korobover)

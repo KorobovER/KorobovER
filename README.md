@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет! Я Алексей 👋
 
-<!--
-**KorobovER/KorobovER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fullstack Developer**, занимаюсь разработкой веб-приложений и комплексных систем для автоматизации бизнес-процессов.
 
-Here are some ideas to get you started:
+Работаю как с backend, так и с frontend: проектирую архитектуру приложений, разрабатываю API, интегрирую сторонние сервисы и создаю пользовательские интерфейсы.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Чем занимаюсь
+
+- ⚙️ **Backend Development** — Python, FastAPI, REST API, PostgreSQL.
+- 🎨 **Frontend Development** — Vue.js, Nuxt, React, TypeScript.
+- 🔄 **Integrations & Real-time** — WebSocket, MQTT, NATS.
+- 🤖 **AI & Automation** — интеграция AI/ML-моделей, обработка медиаданных, автоматизация процессов.
+
+Мне интересно создавать не просто отдельные функции, а полноценные продукты — от идеи и архитектуры до готового пользовательского решения.
+
+Здесь собраны мои проекты, эксперименты с технологиями и практические решения.

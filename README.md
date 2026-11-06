@@ -61,6 +61,6 @@ Fullstack-платформа для управления виртуальным�
 
 ## 📫 Контакты
 
-- **Telegram:** [@korobver](https://t.me/korobver)
+- **Telegram:** [@korobover](https://t.me/korobover)
 - **Email:** [alexey2435ytgh@gmail.com](mailto:alexey2435ytgh@gmail.com)
 - **GitHub:** [@KorobovER](https://github.com/KorobovER)
